@@ -1,0 +1,56 @@
+#navbar{
+    flex-direction: column;
+    padding-bottom: 14px;
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 36px;
+}
+
+#home::before{
+    height: 500px;
+}
+
+#home p{
+    font-size: 1.3rem;
+}
+
+#navbar ul li a{
+    padding: 8px;
+}
+
+.h-primary{
+    font-size: 2.8rem;
+}
+
+#menu{
+    flex-direction: column;
+}
+
+#menu .box{
+    margin: 10px 0px;
+}
+
+#menu .box img{
+    width: 165px;
+}
+
+#review-box form{
+    width: 80%;
+}
+
+#contact-container{
+    height: auto;
+    padding-bottom: 20px;
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    justify-content: center;
+    text-align: justify;
+    margin: 0 16px;
+}

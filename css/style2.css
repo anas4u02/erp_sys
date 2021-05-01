@@ -1,0 +1,14 @@
+.h2{
+	font-size: 48px;
+	text-align: center;
+}
+
+#login{
+	margin:20px 20px 50px 50px;
+
+}
+
+#login.container{
+	margin:20px 20px 50px 50px;
+
+}
